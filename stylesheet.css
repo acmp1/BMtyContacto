@@ -4,11 +4,7 @@
 #menu {
 }
 #crop{
-	overflow:hidden;
-	clear:both;
-	position:absolute;
-	clip:rect(50px 50px 50px 50px);
-	border:2px solid black;
+	
 }
 body {
 	font-size:87.5%;
