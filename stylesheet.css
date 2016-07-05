@@ -4,7 +4,10 @@
 #menu {
 }
 #crop{
-	clip-path:rect(0px 100px -50px 100px);
+	overflow:hidden;
+	clear:both;
+	position:absolute;
+	clip:rect(0px 100px 50px 100px);
 	border:2px solid black;
 }
 body {
