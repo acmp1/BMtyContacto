@@ -3,7 +3,9 @@
 }
 #menu {
 }
-
+#crop{
+	height:100px;
+}
 body {
 	font-size:87.5%;
     font-family:Arial,Verdana, Geneva, Tahoma, sans-serif;
