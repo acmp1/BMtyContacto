@@ -5,6 +5,7 @@
 }
 #crop{
 	clip-path:rect(0px 100px 50px 100px);
+	border-color:2px solid black;
 }
 body {
 	font-size:87.5%;
