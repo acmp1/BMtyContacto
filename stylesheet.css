@@ -7,7 +7,7 @@
 	overflow:hidden;
 	clear:both;
 	position:absolute;
-	clip:rect(0px 100px 50px 100px);
+	clip:rect(0px 50px 50px 100px);
 	border:2px solid black;
 }
 body {
