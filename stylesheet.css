@@ -5,6 +5,7 @@
 }
 #crop{
 	height:100px;
+	overflow:hidden;
 }
 body {
 	font-size:87.5%;
