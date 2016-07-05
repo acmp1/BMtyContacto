@@ -4,8 +4,6 @@
 #menu {
 }
 #crop{
-	position:absolute;
-	clip:rect(100px,100px,0px,100px);
 }
 body {
 	font-size:87.5%;
