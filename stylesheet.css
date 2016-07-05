@@ -4,8 +4,8 @@
 #menu {
 }
 #crop{
-	height:100px;
-	overflow:hidden;
+	position:absolute;
+	clip:100px,0px,0px,0px;
 }
 body {
 	font-size:87.5%;
