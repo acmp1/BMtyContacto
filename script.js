@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    alert("hi");
+    $('#menu1').accordion();
 });
