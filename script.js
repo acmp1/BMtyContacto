@@ -1,4 +1,4 @@
 $(document).ready(function(){
-    $("#menu1").accordion();
+    $("#accordion").accordion();
     });
 });
