@@ -1,5 +1,4 @@
 $(document).ready(function(){
-    $("#toggle").click(function(){
-        $("#toggle").toggle("fade");
+    $("#menu1").accordion();
     });
 });
