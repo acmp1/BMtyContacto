@@ -54,7 +54,7 @@ a:hover,a:active{
     height:20px;
     text-decoration:none;
 }
-.mainheader nav a:hover,.mainheader nav a:active,.mainheader nav .active a:link,.mainheader nav .active a:visited{
+.mainheader nav a:hover,.mainheader nav a:active,.mainheader nav .active a:link{
     background-color:#8cd9b3;
     text-shadow:none;
     color:#fff;
